@@ -7,5 +7,13 @@
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/acampagnaro/api-tentacle">
 
+![GitHub all releases](https://img.shields.io/github/downloads/acampagnaro/api-tentacle/total)
+
+![GitHub all releases](https://img.shields.io/docker/pulls/acampagnaro/api-tentacle)
+
+<a href="https://github.com/acampagnaro/api-tentacle/releases/download/v1.0.50/Spitzer-Tentacle-Setup-1.0.50.exe">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/acampagnaro/api-tentacle">
+</a>
+
 # Feature
 Version of integration with **[Risc Sistemas em Saúde Sistemas](https://clinic.med.br)**
