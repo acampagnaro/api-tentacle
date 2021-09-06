@@ -13,4 +13,4 @@
 </a>
 
 # Feature
-Version of integration with **[Risc Sistemas em Saúde Sistemas](https://clinic.med.br)**
+Version of integration with **[CLINIC Tecnologia e Inovação em Saúde](https://clinic.med.br)**
